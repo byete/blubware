@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/QtWfsse.jpeg)
 
-[Discord](https://discordapp.com/users/962646323381817394) or byte#1000
+![banner](https://sigcord.io/user/962646323381817394)
 
 bytedev2000@gmail.com or twoftwof@dnmx.org
 

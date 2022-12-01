@@ -1,17 +1,13 @@
 ![banner](https://i.imgur.com/QtWfsse.jpeg)
 
-LINKS:
+[Discord](https://discordapp.com/users/962646323381817394) or byte#1000
 
-DISCORD : discordapp.com/users/962646323381817394 or byte#1000
+byredev2000@gmail.com or twoftwof@dnmx.org
 
-GITHUB : github.com/bytedevelopmentation
+[Instagram](https://instagram.com/bytedevelopmentation)
 
-EMAIL : byredev2000@gmail.com or twoftwof@dnmx.org
+[Last.fm](https://last.fm/user/bytedev)
 
-INSTAGRAM : instagram.com/bytedevelopmentation
+[Spotify](https://open.spotify.com/user/zqv4o217yjx3h046mr0kwhpro?si=cc96b7035d1d4b3d)
 
-LAST.FM : last.fm/user/bytedev
-
-SPOTIFY : open.spotify.com/user/zqv4o217yjx3h046mr0kwhpro?si=cc96b7035d1d4b3d
-
-STEREOPHONIC : sterephonic.space/byte
+[Stereophonic](https://stereophonic.space/byte)

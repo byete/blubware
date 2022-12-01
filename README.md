@@ -1,6 +1,7 @@
 ![banner](https://i.imgur.com/QtWfsse.jpeg)
 
 LINKS:
+
 DISCORD : discordapp.com/users/962646323381817394 or byte#1000
 
 GITHUB : github.com/bytedevelopmentation

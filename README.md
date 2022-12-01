@@ -1,5 +1,5 @@
 <h1 align="center"> <img src="images\logo.gif"> </h1>
-<h3 align="center"> <font size="30"> Byte </font></h3>
+<h1 align="center"> <font size="70"> Byte </font></h3>
 
 
 <p align="center">

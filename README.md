@@ -15,3 +15,7 @@ Music:
 [Spotify](https://open.spotify.com/user/zqv4o217yjx3h046mr0kwhpro?si=cc96b7035d1d4b3d)
 
 [Stereophonic](https://stereophonic.space/byte)
+
+Anime:
+
+[My Anime List](https://myanimelist.net/profile/bytedev)

@@ -15,6 +15,6 @@ src="https://sigcord.io/user/962646323381817394"alt="byte" height="100">
 <p align="center">
 <a href="https://www.last.fm/user/bytedev" target="blank"><img src="images\lastfm.png"alt="last.fm" height="80"/>
 <a href="https://myanimelist.net/profile/bytedev" target="blank"><img src="images\myanimelist.jpeg"alt="myanimelist" height="80"/>
-<a href="https://t.me/bytedevelopment" target="blank"><img src="images\telegram.png"alt="telegram" height="80"/>
+<a href="https://t.me/basedgod1337" target="blank"><img src="images\telegram.png"alt="telegram" height="80"/>
 <a href="https://instagram.com/bytedevelopmentation" target="blank"><img src="images\instagram.png"alt="telegram" height="80"/>
 </a>

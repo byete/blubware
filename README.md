@@ -8,7 +8,7 @@ src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&
 
 <p align="center">
 <a href="https://github.com/bytedevelopmentation.com/" target="blank"><img align="center"
-src="https://github-readme-stats.vercel.app/api?username=bytedevelopmentation&show_icons=true&theme=radical"alt="byte">
+src="https://github-readme-stats.vercel.app/api?username=bytedevelopmentation&show_icons=true&theme=dark"alt="byte">
 </a>
 
 <p align="center">

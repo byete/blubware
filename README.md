@@ -13,7 +13,7 @@ src="https://github-readme-stats.vercel.app/api?username=bytedevelopmentation&sh
 
 <p align="center">
 <a href="https://discordapp.com/users/962646323381817394/" target="blank"><img align="center"
-src="https://sigcord.io/user/962646323381817394"alt="byte" height="100">
+src="https://i.imgur.com/4D3MCZB.jpeg"alt="byte" height="250">
 </a>
 
 <p align="center">

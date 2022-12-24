@@ -1,6 +1,6 @@
 <img align="center" src="imgs/banner.jpg" alt="banner">
 
-<h1 align="left"> Hey there , I'm Byte </h1>
+<h1 align="left"> Hey there, I'm Byte </h1>
 
 <h2 align ="left">  Aspiring computer engineer, an intuitive mind with ambition. </h2>
 

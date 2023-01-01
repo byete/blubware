@@ -1,8 +1,6 @@
 <img align="center" src="imgs/banner.png" alt="banner">
 
-<h1 align="left"> Hey there, I'm Byte </h1>
-
-<h2 align ="left">  Aspiring computer engineer, an intuitive mind with ambition. </h2>
+<h1 align="left"> Hey there, I'm Byte, welcome to my Github</h1>
 
 <h2> Skills :
 <h3> Python development, problem solving and out of the box creativity.

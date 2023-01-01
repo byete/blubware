@@ -1,4 +1,4 @@
-<img align="center" src="imgs/banner.jpg" alt="banner">
+<img align="center" src="imgs/banner.png" alt="banner">
 
 <h1 align="left"> Hey there, I'm Byte </h1>
 

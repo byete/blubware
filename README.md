@@ -1,3 +1,3 @@
 <DOCTYPE html>
 
-<img src="imgs/byte.gif">
+<img src="imgs/bytde.gif">
